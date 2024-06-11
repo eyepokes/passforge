@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "એક ક્લિક પર પાસવર્ડ સુરક્ષિત કરો! પાસવર્ડ જીની, અનન્ય અને ખાનગી. ઓપન સોર્સ અંતિમ ઉકેલ."
+    },
+    "extensionTitle": {
+        "message": "PassForge: અંતિમ પાસવર્ડ જનરેશન સોલ્યુશન"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "ક્લિપબોર્ડ પર કૉપિ કરી"
+    },
+    "popup_settings_title": {
+        "message": "સેટિંગ્સ"
+    },
+    "popup_special_characters_label": {
+        "message": "વિશિષ્ટ પાત્રો: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "કૌંસ: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "અપરકેસ અક્ષરો"
+    },
+    "popup_length_label": {
+        "message": "લંબાઈ"
+    },
+    "popup_numbers_label": {
+        "message": "સંખ્યાઓ"
+    },
+    "password_strength_weak": {
+        "message": "નબળા"
+    },
+    "password_strength_moderate": {
+        "message": "માધ્યમ"
+    },
+    "password_strength_strong": {
+        "message": "મજબૂત"
+    },
+    "password_strength_very_strong": {
+        "message": "એકદમ મજબુત"
+    },
+    "password_strength_too_short": {
+        "message": "ખુબ જ ટૂંકું"
+    }
+}

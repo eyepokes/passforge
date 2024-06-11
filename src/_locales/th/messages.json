@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "รหัสผ่านที่ปลอดภัยเพียงคลิกเดียว! รหัสผ่านอัจฉริยะ ไม่ซ้ำใคร และเป็นส่วนตัว โอเพ่นซอร์สสุดยอดโซลูชั่น"
+    },
+    "extensionTitle": {
+        "message": "PassForge: สุดยอดโซลูชั่นการสร้างรหัสผ่าน"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "คัดลอกไปที่คลิปบอร์ดแล้ว"
+    },
+    "popup_settings_title": {
+        "message": "การตั้งค่า"
+    },
+    "popup_special_characters_label": {
+        "message": "ตัวอักษรพิเศษ: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "วงเล็บ: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "อักขระตัวพิมพ์ใหญ่"
+    },
+    "popup_length_label": {
+        "message": "ความยาว"
+    },
+    "popup_numbers_label": {
+        "message": "ตัวเลข"
+    },
+    "password_strength_weak": {
+        "message": "อ่อนแอ"
+    },
+    "password_strength_moderate": {
+        "message": "ปานกลาง"
+    },
+    "password_strength_strong": {
+        "message": "แข็งแกร่ง"
+    },
+    "password_strength_very_strong": {
+        "message": "แข็งแรงมาก"
+    },
+    "password_strength_too_short": {
+        "message": "สั้นเกินไป"
+    }
+}

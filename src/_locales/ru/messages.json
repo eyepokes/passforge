@@ -1,0 +1,47 @@
+{
+  "extensionName": {
+    "message": "PassForge"
+  },
+  "extensionDescription": {
+    "message": "Создавайте надежные пароли без риска - мы не сохраняем ваши данные и используем открытый исходный код"
+  },
+  "extensionTitle": {
+    "message": "PassForge: идеальный генератор паролей"
+  },
+  "popup_copied_to_clipboard": {
+    "message": "Скопировано"
+  },
+  "popup_settings_title": {
+    "message": "Настройки"
+  },
+  "popup_special_characters_label": {
+    "message": "Спец. символы: !@#$%^&*_+-=;':\",.?/\\`"
+  },
+  "popup_brackets_label": {
+    "message": "Скобки: {}()<>[]"
+  },
+  "popup_uppercase_label": {
+    "message": "Строчные"
+  },
+  "popup_length_label": {
+    "message": "Длина"
+  },
+  "popup_numbers_label": {
+    "message": "Цифры"
+  },
+  "password_strength_weak": {
+    "message": "Слабый"
+  },
+  "password_strength_moderate": {
+    "message": "Удовлетворительный"
+  },
+  "password_strength_strong": {
+    "message": "Сильный"
+  },
+  "password_strength_very_strong": {
+    "message": "Очень сильный"
+  },
+  "password_strength_too_short": {
+    "message": "Короткий"
+  }
+}

@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Turvalised paroolid ühe klõpsuga! Paroolidžinn, ainulaadne ja privaatne. Avatud lähtekoodiga ülim lahendus."
+    },
+    "extensionTitle": {
+        "message": "PassForge: ülim parooli genereerimise lahendus"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Kopeeriti lõikelauale"
+    },
+    "popup_settings_title": {
+        "message": "Seaded"
+    },
+    "popup_special_characters_label": {
+        "message": "Eritegelased: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Sulgudes: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Suurtähed"
+    },
+    "popup_length_label": {
+        "message": "Pikkus"
+    },
+    "popup_numbers_label": {
+        "message": "Numbrid"
+    },
+    "password_strength_weak": {
+        "message": "Nõrk"
+    },
+    "password_strength_moderate": {
+        "message": "Mõõdukas"
+    },
+    "password_strength_strong": {
+        "message": "Tugev"
+    },
+    "password_strength_very_strong": {
+        "message": "Väga tugev"
+    },
+    "password_strength_too_short": {
+        "message": "Liiga lühike"
+    }
+}

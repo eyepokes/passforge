@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Contrasenyes segures amb un clic! Contrasenya geni, únic i privat. Solució definitiva de codi obert."
+    },
+    "extensionTitle": {
+        "message": "PassForge: la solució definitiva de generació de contrasenyes"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "S'ha copiat al porta-retalls"
+    },
+    "popup_settings_title": {
+        "message": "Configuració"
+    },
+    "popup_special_characters_label": {
+        "message": "Personatges especials: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Parèntesis: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Caràcters en majúscules"
+    },
+    "popup_length_label": {
+        "message": "Llargada"
+    },
+    "popup_numbers_label": {
+        "message": "Nombres"
+    },
+    "password_strength_weak": {
+        "message": "Feble"
+    },
+    "password_strength_moderate": {
+        "message": "Moderat"
+    },
+    "password_strength_strong": {
+        "message": "Fort"
+    },
+    "password_strength_very_strong": {
+        "message": "Molt fort"
+    },
+    "password_strength_too_short": {
+        "message": "Massa curt"
+    }
+}

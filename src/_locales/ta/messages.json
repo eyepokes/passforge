@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "ஒரே கிளிக்கில் கடவுச்சொற்களைப் பாதுகாக்கவும்! கடவுச்சொல் ஜீனி, தனிப்பட்ட & தனிப்பட்ட. திறந்த மூல இறுதி தீர்வு."
+    },
+    "extensionTitle": {
+        "message": "PassForge: இறுதி கடவுச்சொல் உருவாக்க தீர்வு"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது"
+    },
+    "popup_settings_title": {
+        "message": "அமைப்புகள்"
+    },
+    "popup_special_characters_label": {
+        "message": "சிறப்பு எழுத்துக்கள்: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "அடைப்புக்குறிகள்: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "பெரிய எழுத்துகள்"
+    },
+    "popup_length_label": {
+        "message": "நீளம்"
+    },
+    "popup_numbers_label": {
+        "message": "எண்கள்"
+    },
+    "password_strength_weak": {
+        "message": "பலவீனமான"
+    },
+    "password_strength_moderate": {
+        "message": "மிதமான"
+    },
+    "password_strength_strong": {
+        "message": "வலுவான"
+    },
+    "password_strength_very_strong": {
+        "message": "மிகவும் திடமான"
+    },
+    "password_strength_too_short": {
+        "message": "மிகவும் குறுகியது"
+    }
+}

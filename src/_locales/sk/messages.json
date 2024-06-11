@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Zabezpečte heslá jedným kliknutím! Heslo džin, jedinečné a súkromné. Open source konečné riešenie."
+    },
+    "extensionTitle": {
+        "message": "PassForge: dokonalé riešenie na generovanie hesiel"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Skopírované do schránky"
+    },
+    "popup_settings_title": {
+        "message": "Nastavenie"
+    },
+    "popup_special_characters_label": {
+        "message": "Špeciálne znaky: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Zátvorky: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Veľké písmená"
+    },
+    "popup_length_label": {
+        "message": "Dĺžka"
+    },
+    "popup_numbers_label": {
+        "message": "čísla"
+    },
+    "password_strength_weak": {
+        "message": "slabý"
+    },
+    "password_strength_moderate": {
+        "message": "Mierne"
+    },
+    "password_strength_strong": {
+        "message": "Silný"
+    },
+    "password_strength_very_strong": {
+        "message": "Veľmi silný"
+    },
+    "password_strength_too_short": {
+        "message": "Príliš krátky"
+    }
+}

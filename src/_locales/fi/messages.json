@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Turvalliset salasanat yhdellä napsautuksella! Salasanagenie, ainutlaatuinen ja yksityinen. Avoimen lähdekoodin lopullinen ratkaisu."
+    },
+    "extensionTitle": {
+        "message": "PassForge: paras salasanan luontiratkaisu"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Kopioitu leikepöydälle"
+    },
+    "popup_settings_title": {
+        "message": "Asetukset"
+    },
+    "popup_special_characters_label": {
+        "message": "Erikoismerkit: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Kiinnikkeet: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Isot kirjaimet"
+    },
+    "popup_length_label": {
+        "message": "Pituus"
+    },
+    "popup_numbers_label": {
+        "message": "Numerot"
+    },
+    "password_strength_weak": {
+        "message": "Heikko"
+    },
+    "password_strength_moderate": {
+        "message": "Kohtalainen"
+    },
+    "password_strength_strong": {
+        "message": "Vahva"
+    },
+    "password_strength_very_strong": {
+        "message": "Erittäin vahva"
+    },
+    "password_strength_too_short": {
+        "message": "Liian lyhyt"
+    }
+}

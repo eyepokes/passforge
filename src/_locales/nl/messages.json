@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Veilige wachtwoorden met één klik! Wachtwoord genie, uniek en privé. Open-source ultieme oplossing."
+    },
+    "extensionTitle": {
+        "message": "PassForge: de ultieme oplossing voor het genereren van wachtwoorden"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Gekopieerd naar het klembord"
+    },
+    "popup_settings_title": {
+        "message": "Instellingen"
+    },
+    "popup_special_characters_label": {
+        "message": "Speciale karakters: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Beugels: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Hoofdletters"
+    },
+    "popup_length_label": {
+        "message": "Lengte"
+    },
+    "popup_numbers_label": {
+        "message": "Nummers"
+    },
+    "password_strength_weak": {
+        "message": "Zwak"
+    },
+    "password_strength_moderate": {
+        "message": "Gematigd"
+    },
+    "password_strength_strong": {
+        "message": "Sterk"
+    },
+    "password_strength_very_strong": {
+        "message": "Heel sterk"
+    },
+    "password_strength_too_short": {
+        "message": "Te kort"
+    }
+}

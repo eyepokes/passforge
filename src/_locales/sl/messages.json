@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Zavarujte gesla z enim klikom! Geslo genie, edinstveno in zasebno. Končna odprtokodna rešitev."
+    },
+    "extensionTitle": {
+        "message": "PassForge: najboljša rešitev za ustvarjanje gesel"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Kopirano v odložišče"
+    },
+    "popup_settings_title": {
+        "message": "nastavitve"
+    },
+    "popup_special_characters_label": {
+        "message": "Posebni znaki: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Oklepaji: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Velike črke"
+    },
+    "popup_length_label": {
+        "message": "Dolžina"
+    },
+    "popup_numbers_label": {
+        "message": "Številke"
+    },
+    "password_strength_weak": {
+        "message": "Šibko"
+    },
+    "password_strength_moderate": {
+        "message": "Zmerno"
+    },
+    "password_strength_strong": {
+        "message": "Močna"
+    },
+    "password_strength_very_strong": {
+        "message": "Zelo močno"
+    },
+    "password_strength_too_short": {
+        "message": "Prekratko"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "ワンクリックで安全なパスワード！ パスワード魔神、ユニーク & プライベート。 オープンソースの究極のソリューション。"
+    },
+    "extensionTitle": {
+        "message": "PassForge: 究極のパスワード生成ソリューション。"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "クリップボードにコピーされました。"
+    },
+    "popup_settings_title": {
+        "message": "設定。"
+    },
+    "popup_special_characters_label": {
+        "message": "特殊文字。: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "ブラケット。: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "大文字。"
+    },
+    "popup_length_label": {
+        "message": "長さ。"
+    },
+    "popup_numbers_label": {
+        "message": "数字。"
+    },
+    "password_strength_weak": {
+        "message": "弱い。"
+    },
+    "password_strength_moderate": {
+        "message": "適度。"
+    },
+    "password_strength_strong": {
+        "message": "強い。"
+    },
+    "password_strength_very_strong": {
+        "message": "とても強い。"
+    },
+    "password_strength_too_short": {
+        "message": "短すぎる。"
+    }
+}

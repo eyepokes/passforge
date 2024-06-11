@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "ಒಂದು ಕ್ಲಿಕ್‌ನಲ್ಲಿ ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ಸುರಕ್ಷಿತಗೊಳಿಸಿ! ಪಾಸ್ವರ್ಡ್ ಜಿನೀ, ಅನನ್ಯ ಮತ್ತು ಖಾಸಗಿ. ಮುಕ್ತ ಮೂಲ ಅಂತಿಮ ಪರಿಹಾರ."
+    },
+    "extensionTitle": {
+        "message": "PassForge: ಅಂತಿಮ ಪಾಸ್ವರ್ಡ್ ಉತ್ಪಾದನೆಯ ಪರಿಹಾರ"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಲಾಗಿದೆ"
+    },
+    "popup_settings_title": {
+        "message": "ಸಂಯೋಜನೆಗಳು"
+    },
+    "popup_special_characters_label": {
+        "message": "ವಿಶೇಷ ಪಾತ್ರಗಳು: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "ಆವರಣಗಳು: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "ದೊಡ್ಡಕ್ಷರ ಅಕ್ಷರಗಳು"
+    },
+    "popup_length_label": {
+        "message": "ಉದ್ದ"
+    },
+    "popup_numbers_label": {
+        "message": "ಸಂಖ್ಯೆಗಳು"
+    },
+    "password_strength_weak": {
+        "message": "ದುರ್ಬಲ"
+    },
+    "password_strength_moderate": {
+        "message": "ಮಧ್ಯಮ"
+    },
+    "password_strength_strong": {
+        "message": "ಬಲಶಾಲಿ"
+    },
+    "password_strength_very_strong": {
+        "message": "ತುಂಬಾ ಬಲಶಾಲಿ"
+    },
+    "password_strength_too_short": {
+        "message": "ತುಂಬಾ ಚಿಕ್ಕದು"
+    }
+}

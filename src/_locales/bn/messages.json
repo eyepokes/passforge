@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "এক ক্লিকে সুরক্ষিত পাসওয়ার্ড! পাসওয়ার্ড জিনি, অনন্য এবং ব্যক্তিগত। ওপেন সোর্স চূড়ান্ত সমাধান।"
+    },
+    "extensionTitle": {
+        "message": "PassForge: চূড়ান্ত পাসওয়ার্ড প্রজন্মের সমাধান।"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "ক্লিপবোর্ডে কপি করা হয়েছে।"
+    },
+    "popup_settings_title": {
+        "message": "সেটিংস"
+    },
+    "popup_special_characters_label": {
+        "message": "বিশেষ অক্ষর: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "বন্ধনী: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "বড় হাতের অক্ষর।"
+    },
+    "popup_length_label": {
+        "message": "দৈর্ঘ্য।"
+    },
+    "popup_numbers_label": {
+        "message": "সংখ্যা।"
+    },
+    "password_strength_weak": {
+        "message": "দুর্বল।"
+    },
+    "password_strength_moderate": {
+        "message": "পরিমিত।"
+    },
+    "password_strength_strong": {
+        "message": "শক্তিশালী।"
+    },
+    "password_strength_very_strong": {
+        "message": "খুব শক্তিশালী"
+    },
+    "password_strength_too_short": {
+        "message": "খুবই ছোট"
+    }
+}

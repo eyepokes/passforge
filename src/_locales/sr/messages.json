@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Сигурне лозинке једним кликом! Лозинка гение, јединствена и приватна. Врхунско решење отвореног кода."
+    },
+    "extensionTitle": {
+        "message": "PassForge: ултимативно решење за генерисање лозинки"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Копирано у међуспремник"
+    },
+    "popup_settings_title": {
+        "message": "Подешавања"
+    },
+    "popup_special_characters_label": {
+        "message": "Специјалних знакова: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Заграде: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Велика слова"
+    },
+    "popup_length_label": {
+        "message": "Дужина"
+    },
+    "popup_numbers_label": {
+        "message": "Бројеви"
+    },
+    "password_strength_weak": {
+        "message": "Слабо"
+    },
+    "password_strength_moderate": {
+        "message": "Умерено"
+    },
+    "password_strength_strong": {
+        "message": "Јака"
+    },
+    "password_strength_very_strong": {
+        "message": "Веома јако"
+    },
+    "password_strength_too_short": {
+        "message": "Прекратак"
+    }
+}

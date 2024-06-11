@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Mật khẩu an toàn chỉ với một cú nhấp chuột! Thần mật khẩu, duy nhất và riêng tư. Giải pháp cuối cùng mã nguồn mở."
+    },
+    "extensionTitle": {
+        "message": "PassForge: giải pháp tạo mật khẩu cuối cùng"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Sao chép vào clipboard"
+    },
+    "popup_settings_title": {
+        "message": "Cài đặt"
+    },
+    "popup_special_characters_label": {
+        "message": "Ký tự đặc biệt: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Chân đế: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Chữ hoa"
+    },
+    "popup_length_label": {
+        "message": "Chiều dài"
+    },
+    "popup_numbers_label": {
+        "message": "Con số"
+    },
+    "password_strength_weak": {
+        "message": "Yếu đuối"
+    },
+    "password_strength_moderate": {
+        "message": "Vừa phải"
+    },
+    "password_strength_strong": {
+        "message": "Mạnh"
+    },
+    "password_strength_very_strong": {
+        "message": "Rất mạnh"
+    },
+    "password_strength_too_short": {
+        "message": "Quá ngắn"
+    }
+}

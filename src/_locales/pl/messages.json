@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Bezpieczne hasła jednym kliknięciem! Hasło dżina, unikalne i prywatne. Najlepsze rozwiązanie typu open source."
+    },
+    "extensionTitle": {
+        "message": "PassForge: najlepsze rozwiązanie do generowania haseł"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Skopiowane do schowka"
+    },
+    "popup_settings_title": {
+        "message": "Ustawienia"
+    },
+    "popup_special_characters_label": {
+        "message": "Znaki specjalne: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Wsporniki: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Wielkie litery"
+    },
+    "popup_length_label": {
+        "message": "Długość"
+    },
+    "popup_numbers_label": {
+        "message": "Liczby"
+    },
+    "password_strength_weak": {
+        "message": "Słaby"
+    },
+    "password_strength_moderate": {
+        "message": "Umiarkowany"
+    },
+    "password_strength_strong": {
+        "message": "Mocny"
+    },
+    "password_strength_very_strong": {
+        "message": "Bardzo silny"
+    },
+    "password_strength_too_short": {
+        "message": "Zbyt krótki"
+    }
+}

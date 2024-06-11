@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Säkra lösenord med ett klick! Lösenordsgenie, unik och privat. Öppen källkod ultimat lösning."
+    },
+    "extensionTitle": {
+        "message": "PassForge: den ultimata lösningen för att skapa lösenord"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Kopierade till urklipp"
+    },
+    "popup_settings_title": {
+        "message": "Inställningar"
+    },
+    "popup_special_characters_label": {
+        "message": "Speciella karaktärer: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Fästen: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Versaler"
+    },
+    "popup_length_label": {
+        "message": "Längd"
+    },
+    "popup_numbers_label": {
+        "message": "Tal"
+    },
+    "password_strength_weak": {
+        "message": "Svag"
+    },
+    "password_strength_moderate": {
+        "message": "Måttlig"
+    },
+    "password_strength_strong": {
+        "message": "Stark"
+    },
+    "password_strength_very_strong": {
+        "message": "Väldigt stark"
+    },
+    "password_strength_too_short": {
+        "message": "För kort"
+    }
+}

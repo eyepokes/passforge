@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Salama manenosiri kwa kubofya! Nenosiri, la kipekee na la faragha. Suluhisho la mwisho la chanzo-wazi."
+    },
+    "extensionTitle": {
+        "message": "PassForge: suluhisho la mwisho la kuunda nenosiri"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Imenakiliwa kwenye ubao wa kunakili"
+    },
+    "popup_settings_title": {
+        "message": "Mipangilio"
+    },
+    "popup_special_characters_label": {
+        "message": "Wahusika maalum: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Mabano: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Herufi kubwa"
+    },
+    "popup_length_label": {
+        "message": "Urefu"
+    },
+    "popup_numbers_label": {
+        "message": "Nambari"
+    },
+    "password_strength_weak": {
+        "message": "Dhaifu"
+    },
+    "password_strength_moderate": {
+        "message": "Wastani"
+    },
+    "password_strength_strong": {
+        "message": "Nguvu"
+    },
+    "password_strength_very_strong": {
+        "message": "Nguvu Sana"
+    },
+    "password_strength_too_short": {
+        "message": "Fupi mno"
+    }
+}

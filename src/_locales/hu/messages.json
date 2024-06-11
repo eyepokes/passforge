@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Biztonságos jelszavak egy kattintással! Jelszó genie, egyedi és privát. Nyílt forráskódú végső megoldás."
+    },
+    "extensionTitle": {
+        "message": "PassForge: a végső jelszógeneráló megoldás"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Vágólapra másolva"
+    },
+    "popup_settings_title": {
+        "message": "Beállítások"
+    },
+    "popup_special_characters_label": {
+        "message": "Speciális karakterek: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "zárójelek: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Nagybetűs karakterek"
+    },
+    "popup_length_label": {
+        "message": "Hossz"
+    },
+    "popup_numbers_label": {
+        "message": "Számok"
+    },
+    "password_strength_weak": {
+        "message": "Gyenge"
+    },
+    "password_strength_moderate": {
+        "message": "Mérsékelt"
+    },
+    "password_strength_strong": {
+        "message": "Erős"
+    },
+    "password_strength_very_strong": {
+        "message": "Nagyon erős"
+    },
+    "password_strength_too_short": {
+        "message": "Túl rövid"
+    }
+}

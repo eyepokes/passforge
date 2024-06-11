@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Saugūs slaptažodžiai vienu paspaudimu! Slaptažodžio džinas, unikalus ir privatus. Atvirojo kodo galutinis sprendimas."
+    },
+    "extensionTitle": {
+        "message": "PassForge: geriausias slaptažodžių generavimo sprendimas"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Nukopijuota į mainų sritį"
+    },
+    "popup_settings_title": {
+        "message": "Nustatymai"
+    },
+    "popup_special_characters_label": {
+        "message": "Specialūs simboliai: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Skliausteliuose: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Didžiosios raidės"
+    },
+    "popup_length_label": {
+        "message": "Ilgis"
+    },
+    "popup_numbers_label": {
+        "message": "Skaičiai"
+    },
+    "password_strength_weak": {
+        "message": "Silpnas"
+    },
+    "password_strength_moderate": {
+        "message": "Vidutinis"
+    },
+    "password_strength_strong": {
+        "message": "Stiprus"
+    },
+    "password_strength_very_strong": {
+        "message": "Labai stipru"
+    },
+    "password_strength_too_short": {
+        "message": "Per trumpas"
+    }
+}

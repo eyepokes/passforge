@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Sikre adgangskoder med et klik! Adgangskodegenie, unik og privat. Open source ultimativ løsning."
+    },
+    "extensionTitle": {
+        "message": "PassForge: den ultimative adgangskodegenereringsløsning"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Kopieret til udklipsholder"
+    },
+    "popup_settings_title": {
+        "message": "Indstillinger"
+    },
+    "popup_special_characters_label": {
+        "message": "Specialtegn: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Beslag: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Store bogstaver"
+    },
+    "popup_length_label": {
+        "message": "Længde"
+    },
+    "popup_numbers_label": {
+        "message": "Tal"
+    },
+    "password_strength_weak": {
+        "message": "Svag"
+    },
+    "password_strength_moderate": {
+        "message": "Moderat"
+    },
+    "password_strength_strong": {
+        "message": "Stærk"
+    },
+    "password_strength_very_strong": {
+        "message": "Meget stærk"
+    },
+    "password_strength_too_short": {
+        "message": "For kort"
+    }
+}

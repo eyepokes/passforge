@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Osigurajte lozinke jednim klikom! Gee lozinka, jedinstvena i privatna. Krajnje rješenje otvorenog koda."
+    },
+    "extensionTitle": {
+        "message": "PassForge: ultimativno rješenje za generiranje lozinki"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Kopirano u međuspremnik"
+    },
+    "popup_settings_title": {
+        "message": "postavke"
+    },
+    "popup_special_characters_label": {
+        "message": "Posebni znakovi: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Zagrade: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Velika slova"
+    },
+    "popup_length_label": {
+        "message": "Duljina"
+    },
+    "popup_numbers_label": {
+        "message": "Brojke"
+    },
+    "password_strength_weak": {
+        "message": "Slab"
+    },
+    "password_strength_moderate": {
+        "message": "Umjereno"
+    },
+    "password_strength_strong": {
+        "message": "Jaka"
+    },
+    "password_strength_very_strong": {
+        "message": "Vrlo jak"
+    },
+    "password_strength_too_short": {
+        "message": "Prekratko"
+    }
+}

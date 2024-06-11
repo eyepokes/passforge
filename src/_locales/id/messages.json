@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Amankan kata sandi dengan sekali klik! Jin kata sandi, unik & pribadi. Solusi pamungkas sumber terbuka."
+    },
+    "extensionTitle": {
+        "message": "PassForge: solusi pembuatan kata sandi terbaik"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Disalin ke papan klip"
+    },
+    "popup_settings_title": {
+        "message": "Pengaturan"
+    },
+    "popup_special_characters_label": {
+        "message": "Karakter spesial: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Kurung: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Karakter huruf besar"
+    },
+    "popup_length_label": {
+        "message": "Panjang"
+    },
+    "popup_numbers_label": {
+        "message": "Angka"
+    },
+    "password_strength_weak": {
+        "message": "Lemah"
+    },
+    "password_strength_moderate": {
+        "message": "Sedang"
+    },
+    "password_strength_strong": {
+        "message": "Kuat"
+    },
+    "password_strength_very_strong": {
+        "message": "Sangat kuat"
+    },
+    "password_strength_too_short": {
+        "message": "Terlalu pendek"
+    }
+}

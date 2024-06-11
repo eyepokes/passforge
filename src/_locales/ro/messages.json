@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Parole sigure cu un clic! Genie parole, unic și privat. Soluție finală open-source."
+    },
+    "extensionTitle": {
+        "message": "PassForge: soluția supremă de generare a parolelor"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Copiat în clipboard"
+    },
+    "popup_settings_title": {
+        "message": "Setări"
+    },
+    "popup_special_characters_label": {
+        "message": "Personaje speciale: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Paranteze: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Caractere majuscule"
+    },
+    "popup_length_label": {
+        "message": "Lungime"
+    },
+    "popup_numbers_label": {
+        "message": "Numerele"
+    },
+    "password_strength_weak": {
+        "message": "Slab"
+    },
+    "password_strength_moderate": {
+        "message": "Moderat"
+    },
+    "password_strength_strong": {
+        "message": "Puternic"
+    },
+    "password_strength_very_strong": {
+        "message": "Foarte puternic"
+    },
+    "password_strength_too_short": {
+        "message": "Prea scurt"
+    }
+}

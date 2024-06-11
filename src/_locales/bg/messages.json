@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Защитете паролите с едно кликване! Джин с парола, уникален и личен. Най-доброто решение с отворен код."
+    },
+    "extensionTitle": {
+        "message": "PassForge: най-доброто решение за генериране на парола"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Копирано в клипборда"
+    },
+    "popup_settings_title": {
+        "message": "Настройки"
+    },
+    "popup_special_characters_label": {
+        "message": "Специални символи: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Скоби: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Главни букви"
+    },
+    "popup_length_label": {
+        "message": "Дължина"
+    },
+    "popup_numbers_label": {
+        "message": "Числа"
+    },
+    "password_strength_weak": {
+        "message": "слаб"
+    },
+    "password_strength_moderate": {
+        "message": "Умерен"
+    },
+    "password_strength_strong": {
+        "message": "Силен"
+    },
+    "password_strength_very_strong": {
+        "message": "Много силен"
+    },
+    "password_strength_too_short": {
+        "message": "Твърде кратък"
+    }
+}

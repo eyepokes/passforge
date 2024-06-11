@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Password sicure con un clic! Genio della password, unico e privato. Soluzione definitiva open source."
+    },
+    "extensionTitle": {
+        "message": "PassForge: la soluzione definitiva per la generazione di password"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Copiato negli appunti"
+    },
+    "popup_settings_title": {
+        "message": "Impostazioni"
+    },
+    "popup_special_characters_label": {
+        "message": "Personaggi speciali: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Parentesi: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Caratteri maiuscoli"
+    },
+    "popup_length_label": {
+        "message": "Lunghezza"
+    },
+    "popup_numbers_label": {
+        "message": "Numeri"
+    },
+    "password_strength_weak": {
+        "message": "Debole"
+    },
+    "password_strength_moderate": {
+        "message": "Moderare"
+    },
+    "password_strength_strong": {
+        "message": "Forte"
+    },
+    "password_strength_very_strong": {
+        "message": "Molto forte"
+    },
+    "password_strength_too_short": {
+        "message": "Troppo corta"
+    }
+}

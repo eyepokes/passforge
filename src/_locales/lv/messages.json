@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Drošas paroles ar vienu klikšķi! Parole, unikāla un privāta. Atvērtā koda galīgais risinājums."
+    },
+    "extensionTitle": {
+        "message": "PassForge: labākais paroļu ģenerēšanas risinājums"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Kopēts starpliktuvē"
+    },
+    "popup_settings_title": {
+        "message": "Iestatījumi"
+    },
+    "popup_special_characters_label": {
+        "message": "Īpašas rakstzīmes: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Kronšteini: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Lielie burti"
+    },
+    "popup_length_label": {
+        "message": "Garums"
+    },
+    "popup_numbers_label": {
+        "message": "Skaitļi"
+    },
+    "password_strength_weak": {
+        "message": "Vāja"
+    },
+    "password_strength_moderate": {
+        "message": "Mērens"
+    },
+    "password_strength_strong": {
+        "message": "Spēcīgs"
+    },
+    "password_strength_very_strong": {
+        "message": "Ļoti stiprs"
+    },
+    "password_strength_too_short": {
+        "message": "Pārāk īss"
+    }
+}

@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    min-width: 320px;
+}
+
+#settingsList {
+    transition: max-height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+input#password {
+    transition: border-color 0.2s ease-in-out;
+}
+
+#status {
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
+h1 {
+    color: #333;
+}
+
+.toggleIcon {
+    vertical-align: text-bottom;
+}
+
+.toggleIcon > svg {
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+}
+
+.toggleIcon > .second {
+    display: none;
+}

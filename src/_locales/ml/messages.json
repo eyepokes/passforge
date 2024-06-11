@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "ഒരു ക്ലിക്കിൽ പാസ്‌വേഡുകൾ സുരക്ഷിതമാക്കൂ! പാസ്‌വേഡ് ജീനി, അതുല്യവും സ്വകാര്യവും. ഓപ്പൺ സോഴ്സ് ആത്യന്തിക പരിഹാരം."
+    },
+    "extensionTitle": {
+        "message": "PassForge: ആത്യന്തിക പാസ്‌വേഡ് ജനറേഷൻ പരിഹാരം"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തി"
+    },
+    "popup_settings_title": {
+        "message": "ക്രമീകരണങ്ങൾ"
+    },
+    "popup_special_characters_label": {
+        "message": "പ്രത്യേക കഥാപാത്രങ്ങൾ: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "ആവരണചിഹ്നം: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "വലിയ അക്ഷരങ്ങൾ"
+    },
+    "popup_length_label": {
+        "message": "നീളം"
+    },
+    "popup_numbers_label": {
+        "message": "നമ്പറുകൾ"
+    },
+    "password_strength_weak": {
+        "message": "ദുർബലമായ"
+    },
+    "password_strength_moderate": {
+        "message": "മിതത്വം"
+    },
+    "password_strength_strong": {
+        "message": "ശക്തമായ"
+    },
+    "password_strength_very_strong": {
+        "message": "വളരെ ശക്തമായ"
+    },
+    "password_strength_too_short": {
+        "message": "വളരെ ഹ്രസ്വമാണ്"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Bir tıklamayla güvenli parolalar! Şifre cin, benzersiz ve özel. Açık kaynaklı nihai çözüm."
+    },
+    "extensionTitle": {
+        "message": "PassForge: nihai şifre oluşturma çözümü"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Panoya kopyalandı"
+    },
+    "popup_settings_title": {
+        "message": "Ayarlar"
+    },
+    "popup_special_characters_label": {
+        "message": "Özel karakterler: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Parantez: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Büyük harf karakterleri"
+    },
+    "popup_length_label": {
+        "message": "Uzunluk"
+    },
+    "popup_numbers_label": {
+        "message": "Sayılar"
+    },
+    "password_strength_weak": {
+        "message": "Zayıf"
+    },
+    "password_strength_moderate": {
+        "message": "Ilıman"
+    },
+    "password_strength_strong": {
+        "message": "Güçlü"
+    },
+    "password_strength_very_strong": {
+        "message": "Çok güçlü"
+    },
+    "password_strength_too_short": {
+        "message": "Çok kısa"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Захистіть паролі одним клацанням миші! Пароль-джин, унікальний і приватний. Оптимальне рішення з відкритим кодом."
+    },
+    "extensionTitle": {
+        "message": "PassForge: найкраще рішення для створення паролів"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Скопійовано в буфер обміну"
+    },
+    "popup_settings_title": {
+        "message": "Налаштування"
+    },
+    "popup_special_characters_label": {
+        "message": "Спеціальні символи: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Дужки: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Великі символи"
+    },
+    "popup_length_label": {
+        "message": "Довжина"
+    },
+    "popup_numbers_label": {
+        "message": "Числа"
+    },
+    "password_strength_weak": {
+        "message": "Слабкий"
+    },
+    "password_strength_moderate": {
+        "message": "Помірний"
+    },
+    "password_strength_strong": {
+        "message": "Сильний"
+    },
+    "password_strength_very_strong": {
+        "message": "Дуже сильний"
+    },
+    "password_strength_too_short": {
+        "message": "Занадто короткий"
+    }
+}

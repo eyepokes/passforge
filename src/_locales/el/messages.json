@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Ασφαλίστε τους κωδικούς πρόσβασης με ένα κλικ! Κωδικός τζίνι, μοναδικός και ιδιωτικός. Ανοιχτού κώδικα απόλυτη λύση."
+    },
+    "extensionTitle": {
+        "message": "PassForge: η απόλυτη λύση δημιουργίας κωδικού πρόσβασης"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Αντιγράφηκε στο πρόχειρο"
+    },
+    "popup_settings_title": {
+        "message": "Ρυθμίσεις"
+    },
+    "popup_special_characters_label": {
+        "message": "Ειδικοί χαρακτήρες: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Στηρίγματα: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Κεφαλαίους χαρακτήρες"
+    },
+    "popup_length_label": {
+        "message": "Μήκος"
+    },
+    "popup_numbers_label": {
+        "message": "Αριθμοί"
+    },
+    "password_strength_weak": {
+        "message": "Αδύναμος"
+    },
+    "password_strength_moderate": {
+        "message": "Μέτριος"
+    },
+    "password_strength_strong": {
+        "message": "Ισχυρός"
+    },
+    "password_strength_very_strong": {
+        "message": "Πολύ δυνατός"
+    },
+    "password_strength_too_short": {
+        "message": "Πολύ μικρό"
+    }
+}

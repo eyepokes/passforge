@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Senhas seguras com um clique! Gênio da senha, único e privado. Solução definitiva de código aberto."
+    },
+    "extensionTitle": {
+        "message": "PassForge: a solução definitiva para geração de senhas"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Copiado para a área de transferência"
+    },
+    "popup_settings_title": {
+        "message": "Configurações"
+    },
+    "popup_special_characters_label": {
+        "message": "Caracteres especiais: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Suportes: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Caracteres maiúsculos"
+    },
+    "popup_length_label": {
+        "message": "Comprimento"
+    },
+    "popup_numbers_label": {
+        "message": "Números"
+    },
+    "password_strength_weak": {
+        "message": "Fraco"
+    },
+    "password_strength_moderate": {
+        "message": "Moderado"
+    },
+    "password_strength_strong": {
+        "message": "Forte"
+    },
+    "password_strength_very_strong": {
+        "message": "Muito forte"
+    },
+    "password_strength_too_short": {
+        "message": "Muito curto"
+    }
+}

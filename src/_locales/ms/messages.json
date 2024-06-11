@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "Kata laluan selamat dengan satu klik! Jin kata laluan, unik & peribadi. Penyelesaian muktamad sumber terbuka."
+    },
+    "extensionTitle": {
+        "message": "PassForge: penyelesaian penjanaan kata laluan muktamad"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Disalin ke papan keratan"
+    },
+    "popup_settings_title": {
+        "message": "tetapan"
+    },
+    "popup_special_characters_label": {
+        "message": "Watak istimewa: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "kurungan: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Huruf besar"
+    },
+    "popup_length_label": {
+        "message": "Panjang"
+    },
+    "popup_numbers_label": {
+        "message": "Nombor"
+    },
+    "password_strength_weak": {
+        "message": "Lemah"
+    },
+    "password_strength_moderate": {
+        "message": "Sederhana"
+    },
+    "password_strength_strong": {
+        "message": "kuat"
+    },
+    "password_strength_very_strong": {
+        "message": "Sangat kuat"
+    },
+    "password_strength_too_short": {
+        "message": "Terlalu pendek"
+    }
+}

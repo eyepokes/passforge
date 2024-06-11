@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "एका क्लिकवर पासवर्ड सुरक्षित करा! पासवर्ड जिनी, अद्वितीय आणि खाजगी. मुक्त-स्रोत अंतिम समाधान."
+    },
+    "extensionTitle": {
+        "message": "PassForge: अंतिम पासवर्ड निर्मिती उपाय"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "क्लिपबोर्डवर कॉपी केले"
+    },
+    "popup_settings_title": {
+        "message": "सेटिंग्ज"
+    },
+    "popup_special_characters_label": {
+        "message": "विशेष वर्ण: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "कंस: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "अप्परकेस वर्ण"
+    },
+    "popup_length_label": {
+        "message": "लांबी"
+    },
+    "popup_numbers_label": {
+        "message": "संख्या"
+    },
+    "password_strength_weak": {
+        "message": "कमकुवत"
+    },
+    "password_strength_moderate": {
+        "message": "मध्यम"
+    },
+    "password_strength_strong": {
+        "message": "मजबूत"
+    },
+    "password_strength_very_strong": {
+        "message": "अतिशय मजबूत"
+    },
+    "password_strength_too_short": {
+        "message": "खुप लहान"
+    }
+}

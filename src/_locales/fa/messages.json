@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "رمزهای عبور امن با یک کلیک! رمز عبور، منحصر به فرد و خصوصی. راه حل نهایی منبع باز"
+    },
+    "extensionTitle": {
+        "message": "راه حل نهایی تولید رمز عبور :PassForge"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "در کلیپ بورد کپی شد"
+    },
+    "popup_settings_title": {
+        "message": "تنظیمات"
+    },
+    "popup_special_characters_label": {
+        "message": "!@#$%^&*_+-=;':\",.?/\\` :شخصیت های خاص"
+    },
+    "popup_brackets_label": {
+        "message": "{}()<>[] :براکت ها"
+    },
+    "popup_uppercase_label": {
+        "message": "حروف بزرگ"
+    },
+    "popup_length_label": {
+        "message": "طول"
+    },
+    "popup_numbers_label": {
+        "message": "شماره"
+    },
+    "password_strength_weak": {
+        "message": "ضعیف"
+    },
+    "password_strength_moderate": {
+        "message": "در حد متوسط"
+    },
+    "password_strength_strong": {
+        "message": "قوی"
+    },
+    "password_strength_very_strong": {
+        "message": "بسیار قوی"
+    },
+    "password_strength_too_short": {
+        "message": "خیلی کوتاه"
+    }
+}

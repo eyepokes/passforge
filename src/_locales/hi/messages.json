@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "एक क्लिक पर सुरक्षित पासवर्ड! पासवर्ड जिन्न, अद्वितीय और निजी। ओपन-सोर्स परम समाधान।"
+    },
+    "extensionTitle": {
+        "message": "PassForge: परम पासवर्ड पीढ़ी समाधान।"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "क्लिपबोर्ड पर नकल।"
+    },
+    "popup_settings_title": {
+        "message": "समायोजन।"
+    },
+    "popup_special_characters_label": {
+        "message": "विशेष वर्ण।: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "कोष्ठक।: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "अपरकेस वर्ण।"
+    },
+    "popup_length_label": {
+        "message": "लंबाई।"
+    },
+    "popup_numbers_label": {
+        "message": "अंक।"
+    },
+    "password_strength_weak": {
+        "message": "कमज़ोर।"
+    },
+    "password_strength_moderate": {
+        "message": "उदारवादी।"
+    },
+    "password_strength_strong": {
+        "message": "मज़बूत।"
+    },
+    "password_strength_very_strong": {
+        "message": "बहुत मजबूत।"
+    },
+    "password_strength_too_short": {
+        "message": "बहुत छोटा।"
+    }
+}

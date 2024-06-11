@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "تأمين كلمات المرور بنقرة واحدة! كلمة المرور المارد ، فريدة وخاصة. حل نهائي مفتوح المصدر."
+    },
+    "extensionTitle": {
+        "message": "الحل النهائي لتوليد كلمات المرور :PassForge"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "نسخ إلى الحافظة"
+    },
+    "popup_settings_title": {
+        "message": "إعدادات"
+    },
+    "popup_special_characters_label": {
+        "message": "!@#$%^&*_+-=;':\",.?/\\` :الشخصيات الخاصة"
+    },
+    "popup_brackets_label": {
+        "message": "{}()<>[] :اقواس"
+    },
+    "popup_uppercase_label": {
+        "message": "الأحرف الكبيرة"
+    },
+    "popup_length_label": {
+        "message": "طول"
+    },
+    "popup_numbers_label": {
+        "message": "أعداد"
+    },
+    "password_strength_weak": {
+        "message": "ضعيف"
+    },
+    "password_strength_moderate": {
+        "message": "معتدل"
+    },
+    "password_strength_strong": {
+        "message": "قوي"
+    },
+    "password_strength_very_strong": {
+        "message": "قوي جدا"
+    },
+    "password_strength_too_short": {
+        "message": "قصير جدا"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "ఒక క్లిక్‌తో పాస్‌వర్డ్‌లను సురక్షితం చేయండి! పాస్‌వర్డ్ జెనీ, ప్రత్యేకమైన & ప్రైవేట్. ఓపెన్ సోర్స్ అంతిమ పరిష్కారం."
+    },
+    "extensionTitle": {
+        "message": "PassForge: అంతిమ పాస్‌వర్డ్ ఉత్పత్తి పరిష్కారం"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "క్లిప్‌బోర్డ్‌కి కాపీ చేయబడింది"
+    },
+    "popup_settings_title": {
+        "message": "సెట్టింగ్‌లు"
+    },
+    "popup_special_characters_label": {
+        "message": "ప్రత్యేక పాత్రలు: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "బ్రాకెట్లు: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "పెద్ద అక్షరాలు"
+    },
+    "popup_length_label": {
+        "message": "పొడవు"
+    },
+    "popup_numbers_label": {
+        "message": "సంఖ్యలు"
+    },
+    "password_strength_weak": {
+        "message": "బలహీనమైన"
+    },
+    "password_strength_moderate": {
+        "message": "మోస్తరు"
+    },
+    "password_strength_strong": {
+        "message": "బలమైన"
+    },
+    "password_strength_very_strong": {
+        "message": "చాలా బలమైన"
+    },
+    "password_strength_too_short": {
+        "message": "చాలా చిన్న"
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "PassForge",
+  "description": "Secure passwords at a click! Password genie, unique & private. Open-source ultimate solution.",
+  "version": "1.0",
+  "icons": {
+    "16": "resources/icons/16_.png",
+    "32": "resources/icons/32_.png",
+    "48": "resources/icons/48_.png",
+    "128": "resources/icons/128_.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "resources/icons/16_.png",
+      "32": "resources/icons/32_.png",
+      "48": "resources/icons/48_.png",
+      "128": "resources/icons/128_.png"
+    },
+    "default_title": "PassForge: the ultimate password generation solution",
+    "default_popup": "ui/popup/index.html"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "contextMenus",
+    "storage",
+    "clipboardWrite"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "default_locale": "en"
+}

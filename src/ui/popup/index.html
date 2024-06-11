@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./bundle.css"/>
+</head>
+<body>
+<div class="flex flex-col items-left p-8">
+    <div class="flex items-left mb-4 align-middle">
+        <img src="../../resources/icons/48_.png" alt="PassForge" class="h-8 w-8 mr-2 align-middle">
+        <h1 class="text-xl font-bold align-middle top-1 relative">PassForge</h1>
+    </div>
+
+    <div class="flex items-right text-center">
+        <p id="password-strength"></p>
+    </div>
+
+    <div class="flex items-center">
+        <input type="text" id="password" value="password" class="border p-2 w-full outline-0 text-base" readonly>
+        <button class="text-indigo-500 hover:text-indigo-600 font-medium p-2" id="refresh">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="16" height="16"><path fill="currentColor" d="M89.1 202.6c7.7-21.8 20.2-42.3 37.8-59.8c62.5-62.5 163.8-62.5 226.3 0L370.3 160H320c-17.7 0-32 14.3-32 32s14.3 32 32 32H447.5c0 0 0 0 0 0h.4c17.7 0 32-14.3 32-32V64c0-17.7-14.3-32-32-32s-32 14.3-32 32v51.2L398.4 97.6c-87.5-87.5-229.3-87.5-316.8 0C57.2 122 39.6 150.7 28.8 181.4c-5.9 16.7 2.9 34.9 19.5 40.8s34.9-2.9 40.8-19.5zM23 289.3c-5 1.5-9.8 4.2-13.7 8.2c-4 4-6.7 8.8-8.1 14c-.3 1.2-.6 2.5-.8 3.8c-.3 1.7-.4 3.4-.4 5.1V448c0 17.7 14.3 32 32 32s32-14.3 32-32V396.9l17.6 17.5 0 0c87.5 87.4 229.3 87.4 316.7 0c24.4-24.4 42.1-53.1 52.9-83.7c5.9-16.7-2.9-34.9-19.5-40.8s-34.9 2.9-40.8 19.5c-7.7 21.8-20.2 42.3-37.8 59.8c-62.5 62.5-163.8 62.5-226.3 0l-.1-.1L109.6 352H160c17.7 0 32-14.3 32-32s-14.3-32-32-32H32.4c-1.6 0-3.2 .1-4.8 .3s-3.1 .5-4.6 1z"/></svg>
+        </button>
+    </div>
+    <div class="text-gray-600 items-right" id="status">
+    </div>
+    <a href="#" class="mt-2 text-indigo-500 hover:text-indigo-600 font-medium mb-4" id="toggleLink">
+        <span class="mr-2" data-i18n="popup_settings_title">Settings</span>
+        <span class="toggleIcon" id="toggleIcon">
+            <svg class="first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="12" height="12">
+            <path fill="currentColor"
+                  d="M201.4 406.6c12.5 12.5 32.8 12.5 45.3 0l192-192c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 338.7 54.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l192 192z"/>
+            </svg>
+            <svg class="second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="12" height="12">
+                <path fill="currentColor"
+                      d="M201.4 105.4c12.5-12.5 32.8-12.5 45.3 0l192 192c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L224 173.3 54.6 342.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3l192-192z"/>
+            </svg>
+        </span>
+    </a>
+    <ul id="settingsList" class="overflow-hidden" style="max-height: 0;">
+        <li class="flex items-center mb-2 whitespace-nowrap">
+            <label for="setting0" class="text-gray-900" ><span data-i18n="popup_length_label">Length</span>: <span id="length"></span></label>
+        </li>
+        <li class="flex items-center mb-2 whitespace-nowrap">
+            <input id="setting0" type="range" min="5" max="50"
+                   class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer">
+        </li>
+        <li class="flex items-center mb-2 whitespace-nowrap">
+            <input type="checkbox" id="setting1" class="mr-1">
+            <label for="setting1" data-i18n="popup_special_characters_label">Special characters: !@#$%^&*_+-=;':",.?/\`</label>
+        </li>
+        <li class="flex items-center mb-2 whitespace-nowrap">
+            <input type="checkbox" id="setting2" class="mr-1">
+            <label for="setting2" data-i18n="popup_brackets_label">Brackets: {}()<>[]</label>
+        </li>
+        <li class="flex items-center mb-2 whitespace-nowrap">
+            <input type="checkbox" id="setting3" class="mr-1">
+            <label for="setting3" data-i18n="popup_uppercase_label">Uppercase characters</label>
+        </li>
+        <li class="flex items-center mb-2 whitespace-nowrap">
+            <input type="checkbox" id="setting4" class="mr-1">
+            <label for="setting3" data-i18n="popup_numbers_label">Numbers</label>
+        </li>
+    </ul>
+</div>
+<script src="../../bundle.js"></script>
+</body>
+</html>

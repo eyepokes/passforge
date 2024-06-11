@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "סיסמאות מאובטחות בקליק! ג'יני סיסמה, ייחודי ופרטי. פתרון אולטימטיבי בקוד פתוח."
+    },
+    "extensionTitle": {
+        "message": "הפתרון האולטימטיבי ליצירת סיסמאות :PassForge"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "הועתק ללוח"
+    },
+    "popup_settings_title": {
+        "message": "הגדרות"
+    },
+    "popup_special_characters_label": {
+        "message": "!@#$%^&*_+-=;':\",.?/\\` :תווים מיוחדים"
+    },
+    "popup_brackets_label": {
+        "message": "{}()<>[] :סוֹגְרַיִם"
+    },
+    "popup_uppercase_label": {
+        "message": "אותיות רישיות"
+    },
+    "popup_length_label": {
+        "message": "אורך"
+    },
+    "popup_numbers_label": {
+        "message": "מספרים"
+    },
+    "password_strength_weak": {
+        "message": "חלש"
+    },
+    "password_strength_moderate": {
+        "message": "לְמַתֵן"
+    },
+    "password_strength_strong": {
+        "message": "חָזָק"
+    },
+    "password_strength_very_strong": {
+        "message": "חזק מאוד"
+    },
+    "password_strength_too_short": {
+        "message": "קצר מדי"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "클릭 한 번으로 안전한 비밀번호! 비밀번호 지니, 고유하고 비공개입니다. 오픈 소스 궁극의 솔루션."
+    },
+    "extensionTitle": {
+        "message": "PassForge: 최고의 암호 생성 솔루션"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "클립보드에 복사되었습니다"
+    },
+    "popup_settings_title": {
+        "message": "설정"
+    },
+    "popup_special_characters_label": {
+        "message": "특수 문자: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "괄호: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "대문자"
+    },
+    "popup_length_label": {
+        "message": "길이"
+    },
+    "popup_numbers_label": {
+        "message": "숫자"
+    },
+    "password_strength_weak": {
+        "message": "약한"
+    },
+    "password_strength_moderate": {
+        "message": "보통의"
+    },
+    "password_strength_strong": {
+        "message": "강한"
+    },
+    "password_strength_very_strong": {
+        "message": "매우 강한"
+    },
+    "password_strength_too_short": {
+        "message": "너무 짧아"
+    }
+}

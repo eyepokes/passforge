@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "በአንድ ጠቅታ አስተማማኝ የይለፍ ቃሎች! የይለፍ ቃል ጂኒ፣ ልዩ እና የግል። የክፍት ምንጭ የመጨረሻ መፍትሄ።"
+    },
+    "extensionTitle": {
+        "message": "PassForge: የመጨረሻው የይለፍ ቃል ማመንጨት መፍትሔ"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "ወደ ቅንጥብ ሰሌዳ ተቀድቷል።"
+    },
+    "popup_settings_title": {
+        "message": "ቅንብሮች"
+    },
+    "popup_special_characters_label": {
+        "message": "ልዩ ቁምፊዎች: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "ቅንፎች: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "አቢይ ሆሄያት።"
+    },
+    "popup_length_label": {
+        "message": "ርዝመት"
+    },
+    "popup_numbers_label": {
+        "message": "ቁጥሮች"
+    },
+    "password_strength_weak": {
+        "message": "ደካማ።"
+    },
+    "password_strength_moderate": {
+        "message": "መጠነኛ።"
+    },
+    "password_strength_strong": {
+        "message": "ጠንካራ"
+    },
+    "password_strength_very_strong": {
+        "message": "በጣም ጠንካራ"
+    },
+    "password_strength_too_short": {
+        "message": "በጣም አጭር።"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "单击即可保护密码！ 密码精灵，独特且私密。 开源终极解决方案。"
+    },
+    "extensionTitle": {
+        "message": "PassForge: 最终的密码生成解决方案。"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "复制到剪贴板。"
+    },
+    "popup_settings_title": {
+        "message": "设置。"
+    },
+    "popup_special_characters_label": {
+        "message": "特殊字符。: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "括号。: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "大写字符。"
+    },
+    "popup_length_label": {
+        "message": "长度。"
+    },
+    "popup_numbers_label": {
+        "message": "数字。"
+    },
+    "password_strength_weak": {
+        "message": "虚弱的。"
+    },
+    "password_strength_moderate": {
+        "message": "缓和。"
+    },
+    "password_strength_strong": {
+        "message": "强的。"
+    },
+    "password_strength_very_strong": {
+        "message": "非常强壮。"
+    },
+    "password_strength_too_short": {
+        "message": "过短。"
+    }
+}

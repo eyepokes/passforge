@@ -1,0 +1,47 @@
+{
+    "extensionName": {
+        "message": "PassForge"
+    },
+    "extensionDescription": {
+        "message": "I-secure ang mga password sa isang click! Password genie, natatangi at pribado. Open-source ultimate na solusyon."
+    },
+    "extensionTitle": {
+        "message": "PassForge: ang tunay na solusyon sa pagbuo ng password"
+    },
+    "popup_copied_to_clipboard": {
+        "message": "Kinopya sa clipboard"
+    },
+    "popup_settings_title": {
+        "message": "Mga setting"
+    },
+    "popup_special_characters_label": {
+        "message": "Mga espesyal na karakter: !@#$%^&*_+-=;':\",.?/\\`"
+    },
+    "popup_brackets_label": {
+        "message": "Mga bracket: {}()<>[]"
+    },
+    "popup_uppercase_label": {
+        "message": "Mga malalaking titik"
+    },
+    "popup_length_label": {
+        "message": "Ang haba"
+    },
+    "popup_numbers_label": {
+        "message": "Numero"
+    },
+    "password_strength_weak": {
+        "message": "Mahina"
+    },
+    "password_strength_moderate": {
+        "message": "Katamtaman"
+    },
+    "password_strength_strong": {
+        "message": "Malakas"
+    },
+    "password_strength_very_strong": {
+        "message": "Napakalakas"
+    },
+    "password_strength_too_short": {
+        "message": "Masyadong maikli"
+    }
+}
