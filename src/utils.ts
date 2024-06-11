@@ -1,4 +1,5 @@
 import {Settings} from "./types";
+import ColorArray = chrome.action.ColorArray;
 
 /**
  * Generates password string
@@ -145,7 +146,7 @@ export function sleep(seconds: number) {
     return new Promise(resolve => setTimeout(resolve, seconds * 1000));
 }
 
-export async function showBadge(text: string, tabId: number, color: string, fadeDelay: number) {
+export async function showBadge(text: string, tabId: number, color: ColorArray, fadeDelay: number) {
     await chrome.action.setBadgeBackgroundColor({tabId: tabId, color: color});
     await chrome.action.setBadgeText({tabId: tabId, text: text});
     // await chrome.action.setTitle({

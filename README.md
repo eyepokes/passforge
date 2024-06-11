@@ -1,3 +1,5 @@
+<img src="src/resources/icons/128.png" width="64"/>
+
 # PassForge
 
 PassForge is an open-source password generator designed to create strong, unique passwords without storing any user data. With a focus on security and transparency, PassForge ensures your passwords are generated safely and never stored or transmitted.
