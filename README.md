@@ -1,4 +1,4 @@
-<img src="src/resources/icons/128.png" width="64"/>
+<img src="src/resources/icons/128_.png" width="64"/>
 
 # PassForge
 
