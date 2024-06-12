@@ -19,7 +19,7 @@ export const settingsMap = {
     includeNumbers: "#setting4"
 }
 
-export const tailwindMap = {
+export const tailwindMap: {[k: string]: {border: string; text: string;}} = {
     "too-short": {
         border: "border-red-500",
         text: "text-red-500"

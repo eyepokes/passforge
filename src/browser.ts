@@ -35,7 +35,6 @@ export function refresh(settings: Settings) {
     let password = generatePassword(length, includeSpecialNoBrackets, includeSpecialBrackets, includeUppercase, includeNumbers);
     let statusText = chrome.i18n.getMessage("popup_copied_to_clipboard");
     let passwordStrength = checkPasswordStrength(password);
-    console.log(passwordStrength);
 
     const statusSelector: HTMLElement | null = document.querySelector(selectors.status);
     const passwordSelector: HTMLInputElement | null = document.querySelector(selectors.password);
@@ -55,13 +54,13 @@ export function refresh(settings: Settings) {
 
 
         for (let item in tailwindMap) {
-            passwordSelector.classList.remove(tailwindMap[item as keyof typeof tailwindMap].border);
+            passwordSelector.classList.remove(tailwindMap[item].border);
         }
 
-        passwordSelector.classList.add(tailwindMap[passwordStrength.replace(/\s+/g, "-").toLowerCase() as keyof typeof tailwindMap].border);
+        passwordSelector.classList.add(tailwindMap[passwordStrength.replace(/\s+/g, "-").toLowerCase()].border);
 
         passwordStrengthSelector.textContent = chrome.i18n.getMessage("password_strength_" + passwordStrength.replace(/\s/,"_").toLowerCase());
-        passwordStrengthSelector.className = tailwindMap[passwordStrength.replace(/\s+/g, "-").toLowerCase() as keyof typeof tailwindMap].text;
+        passwordStrengthSelector.className = tailwindMap[passwordStrength.replace(/\s+/g, "-").toLowerCase()].text;
         copyText(password);
     }
 }

@@ -12,7 +12,7 @@ const refreshLink: HTMLElement | null = document.querySelector(selectors.refresh
 toggleLink!.addEventListener("click", (event) => {
     event.preventDefault();
     if(settingsList) {
-        settingsList.style["max-height"] = settingsList!.style["max-height"] === "0px" ? "300px" : "0px";
+        settingsList.style.maxHeight = settingsList.style.maxHeight === "0px" ? "300px" : "0px";
         // toggleIcon.classList.toggle("fa-chevron-down");
         // toggleIcon.classList.toggle("fa-chevron-up");
         settingsList.classList.toggle("overflow-visible");
@@ -24,28 +24,32 @@ toggleLink!.addEventListener("click", (event) => {
 
 
 async function main() {
+
     let storageSettings = await chrome.storage.local.get([storageKey]);
 
     currentSettings = (!storageSettings[storageKey] ? defaultSettings : storageSettings[storageKey]);
-    for (let setting in settingsMap) {
 
+    for (let setting in settingsMap) {
+        // @ts-ignore
         let selector = document.querySelector<HTMLInputElement>(settingsMap[setting]);
+
         if (selector) {
-            selector.checked = currentSettings[setting];
+            if(setting !== "length") {
+                selector.checked = currentSettings[setting] as boolean;
+            }
             //add listener
             selector.addEventListener("change", async function (event) {
                 event.preventDefault();
-
                 if (setting === "length") {
                     currentSettings[setting] = parseInt(this.value, 10);
                 } else {
                     currentSettings[setting] = this.checked;
                 }
                 await chrome.storage.local.set({[storageKey]: currentSettings});
+
                 refresh(currentSettings);
             })
         }
-
     }
     refresh(currentSettings);
 

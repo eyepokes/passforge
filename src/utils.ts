@@ -125,7 +125,7 @@ export function checkPasswordStrength(password: string): string {
             break;
         }
     }
-    console.log(strength);
+
     switch (strength) {
         default:
         case 0:
