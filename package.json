@@ -1,7 +1,7 @@
 {
 	"name": "passforge",
 	"description": "A secure password generation browser extension",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"private": true,
 	"packageManager": "pnpm@10.24.0",
 	"engines": {
