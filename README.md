@@ -34,7 +34,7 @@ That's it. No accounts. No storage. No data leaves your browser.
 ## Install
 
 <p align="center">
-<a rel="noreferrer noopener" href="https://chromewebstore.google.com/detail/passforge/YOUR_EXTENSION_ID"><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome-141e24.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+<a rel="noreferrer noopener" href="https://chromewebstore.google.com/detail/passforge/kbnggnipiipfgnibgnhhmmmnnbpncgch"><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome-141e24.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 <a rel="noreferrer noopener" href="https://addons.mozilla.org/firefox/addon/passforge/"><img alt="Firefox Add-on" src="https://img.shields.io/badge/Firefox-141e24.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
 </p>
 
