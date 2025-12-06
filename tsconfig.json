@@ -1,23 +1,26 @@
 {
-  "compilerOptions": {
-    "strict": true,
-    "module": "commonjs",
-    "target": "es6",
-    "esModuleInterop": true,
-    "sourceMap": false,
-    "inlineSourceMap": false,
-    "inlineSources": false,
-    "noEmitOnError": false,
-    "noImplicitAny": true,
-    "typeRoots": [ "node_modules/@types" ],
-    "resolveJsonModule": true,
-    "outDir": "build",
-    "removeComments": true,
-    "types": [
-      "@types/node",
-      "@types/chrome"
-    ]
-  },
-  "include": ["src/**/*"],
-  "exclude": ["node_modules", "**/*.test.ts"]
+	"compilerOptions": {
+		"strict": true,
+		"module": "commonjs",
+		"target": "es6",
+		"esModuleInterop": true,
+		"sourceMap": false,
+		"inlineSourceMap": false,
+		"inlineSources": false,
+		"noEmitOnError": false,
+		"noImplicitAny": true,
+		"typeRoots": ["node_modules/@types"],
+		"resolveJsonModule": true,
+		"outDir": "build",
+		"removeComments": true,
+		"types": ["node", "chrome"]
+	},
+	"ts-node": {
+		"transpileOnly": true,
+		"compilerOptions": {
+			"module": "commonjs"
+		}
+	},
+	"include": ["src/**/*", "tests/**/*"],
+	"exclude": ["node_modules"]
 }
