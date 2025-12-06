@@ -1,2 +1,45 @@
+# Dependencies
 node_modules
+
+# Build output
 build
+dist
+
+# Generated files
+src/ui/popup/bundle.css
+
+# Test coverage
+coverage
+.nyc_output
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.claude
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Cache
+.cache
+.eslintcache
+.parcel-cache

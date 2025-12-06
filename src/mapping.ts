@@ -1,53 +1,56 @@
-import {Settings} from "./types";
+import type { Settings } from "./types";
 
 export const selectors = {
-    toggleLink: "#toggleLink",
-    toggleIcon: "#toggleIcon",
-    settingsList: "#settingsList",
-    refreshLink: "#refresh",
-    status: "#status",
-    password: "#password",
-    "password-strength": "#password-strength",
-    length: "#length"
-}
+	toggleLink: "#toggleLink",
+	toggleIcon: "#toggleIcon",
+	settingsList: "#settingsList",
+	refreshLink: "#refresh",
+	status: "#status",
+	password: "#password",
+	"password-strength": "#password-strength",
+	length: "#length",
+	iconFirst: ".first",
+	iconSecond: ".second",
+	i18nElements: "[data-i18n]",
+};
 
 export const settingsMap = {
-    length: "#setting0",
-    includeSpecialNoBrackets: "#setting1",
-    includeSpecialBrackets: "#setting2",
-    includeUppercase: "#setting3",
-    includeNumbers: "#setting4"
-}
+	length: "#setting0",
+	includeSpecialNoBrackets: "#setting1",
+	includeSpecialBrackets: "#setting2",
+	includeUppercase: "#setting3",
+	includeNumbers: "#setting4",
+};
 
-export const tailwindMap: {[k: string]: {border: string; text: string;}} = {
-    "too-short": {
-        border: "border-red-500",
-        text: "text-red-500"
-    },
-    "weak": {
-        border: "border-orange-500",
-        text: "text-orange-500"
-    },
-    "moderate": {
-        border: "border-yellow-500",
-        text: "text-yellow-500"
-    },
-    "strong": {
-        border: "border-green-500",
-        text: "text-green-500"
-    },
-    "very-strong": {
-        border: "border-indigo-500",
-        text: "text-indigo-500"
-    }
-}
+export const tailwindMap: { [k: string]: { border: string; text: string } } = {
+	"too-short": {
+		border: "border-red-500",
+		text: "text-red-500",
+	},
+	weak: {
+		border: "border-orange-500",
+		text: "text-orange-500",
+	},
+	moderate: {
+		border: "border-yellow-500",
+		text: "text-yellow-500",
+	},
+	strong: {
+		border: "border-green-500",
+		text: "text-green-500",
+	},
+	"very-strong": {
+		border: "border-indigo-500",
+		text: "text-indigo-500",
+	},
+};
 
 export const defaultSettings: Settings = {
-    length: 8,
-    includeSpecialNoBrackets: true,
-    includeSpecialBrackets: false,
-    includeUppercase: true,
-    includeNumbers: true
-}
+	length: 8,
+	includeSpecialNoBrackets: true,
+	includeSpecialBrackets: false,
+	includeUppercase: true,
+	includeNumbers: true,
+};
 
 export const storageKey = "passforge_settings";

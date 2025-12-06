@@ -19,13 +19,7 @@
     "default_title": "__MSG_extensionTitle__",
     "default_popup": "ui/popup/index.html"
   },
-  "permissions": [
-    "activeTab",
-    "scripting",
-    "contextMenus",
-    "storage",
-    "clipboardWrite"
-  ],
+  "permissions": ["activeTab", "scripting", "contextMenus", "storage", "clipboardWrite"],
   "background": {
     "scripts": ["background.js"]
   },
@@ -34,11 +28,5 @@
       "id": "oleg@welofi.com"
     }
   },
-  "content_scripts": [
-    {
-      "matches": ["<all_urls>"],
-      "js": ["content.js"]
-    }
-  ],
   "default_locale": "en"
 }
