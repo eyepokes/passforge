@@ -25,7 +25,10 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "oleg@welofi.com"
+      "id": "oleg@welofi.com",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
     }
   },
   "default_locale": "en"
